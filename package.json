@@ -1,0 +1,14 @@
+{
+  "name": "WeatherCompare",
+  "version": "0.0.1",
+  "description": "Compares weather from a set of locations",
+  "main": "index.js",
+  "dependencies": {
+    "config": "^1.24.0",
+    "jsonfile": "^2.4.0",
+    "request": "^2.79.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
